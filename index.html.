@@ -28,8 +28,8 @@
   <h1 style="text-align:center;">Фотоальбом</h1>
   <div class="gallery">
     <!-- Здесь будут твои картинки -->
-    <img src="img/photo1.jpg" alt="">
-    <img src="img/photo2.jpg" alt="">
+    <img src="img/WhatsApp Image 2025-07-03 at 13.30.49 (2).jpg" alt="">
+    <img src="img/WhatsApp Image 2025-07-03 at 13.30.50 (1).jpg" alt="">
     <img src="img/photo3.jpg" alt="">
   </div>
 </body>
